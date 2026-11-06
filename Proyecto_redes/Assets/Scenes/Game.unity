@@ -5028,6 +5028,10 @@ PrefabInstance:
       propertyPath: m_Size.y
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 4778270844036416821, guid: e31b66b5c303b0c4db55ecb0361eefc8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8776254404ef0224daa4790a2a48c9ec, type: 3}
     - target: {fileID: 5038935586393557602, guid: e31b66b5c303b0c4db55ecb0361eefc8, type: 3}
       propertyPath: m_Name
       value: RedBlock
@@ -6092,6 +6096,10 @@ PrefabInstance:
       propertyPath: m_Size.x
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4778270844036416821, guid: e31b66b5c303b0c4db55ecb0361eefc8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8776254404ef0224daa4790a2a48c9ec, type: 3}
     - target: {fileID: 5038935586393557602, guid: e31b66b5c303b0c4db55ecb0361eefc8, type: 3}
       propertyPath: m_Name
       value: RedBlock
